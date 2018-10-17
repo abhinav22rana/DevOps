@@ -1,1 +1,1 @@
-# build automated through  build server
+# build automated through build server
